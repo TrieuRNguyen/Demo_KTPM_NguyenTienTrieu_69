@@ -1,3 +1,6 @@
+<<<<<<<<mian
+    >>>>>>
+
 // C++ program to display "Hello World"
 
 // header file for input output functions

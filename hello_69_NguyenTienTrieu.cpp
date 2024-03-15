@@ -1,5 +1,3 @@
-<<<<<<<<mian
-    >>>>>>
 
 // C++ program to display "Hello World"
 
@@ -14,5 +12,6 @@ int main()
     //Prints hello world
     cout<<"Hello World";
     cout<<"Thay Doi Tren Branch test" << endl;	
+    cout<<"Thay Doi Tren Branch main" << endl;
     return 0;
 }
